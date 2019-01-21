@@ -17,9 +17,11 @@
 
 [02_tuples.ipynb](https://colab.research.google.com/github/asartori86/python_intro_2019/blob/master/python_intro/02_containers/02_tuples.ipynb)
 
-[03_dictionaries.ipynb](https://colab.research.google.com/github/asartori86/python_intro_2019/blob/master/python_intro/02_containers/03_dictionaries.ipynb)
+[03_arrays.ipynb](https://colab.research.google.com/github/asartori86/python_intro_2019/blob/master/python_intro/02_containers/03_arrays.ipynb)
 
-[04_sets.ipynb](https://colab.research.google.com/github/asartori86/python_intro_2019/blob/master/python_intro/02_containers/04_sets.ipynb)
+[04_dictionaries.ipynb](https://colab.research.google.com/github/asartori86/python_intro_2019/blob/master/python_intro/02_containers/04_dictionaries.ipynb)
+
+[05_sets.ipynb](https://colab.research.google.com/github/asartori86/python_intro_2019/blob/master/python_intro/02_containers/05_sets.ipynb)
 
 #### 03_functions_and_classes
 
